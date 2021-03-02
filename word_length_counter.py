@@ -237,7 +237,7 @@ def print_sort_words():
 # -------------- End of printing functions -----------------
 
 
-#Do not change this
+
 if __name__ == "__main__":
     main()
 
