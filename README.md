@@ -1,4 +1,4 @@
-# Python-File-Word-Counter-And-More
+# Python-File-Word-Counter-And-Analyzer
 
 Is run by "python word_length_counter.py --infile 'filename' [--sort] [--print-words]"
 or        "./word_length_counter.py --infile 'filename' [--sort] [--print-words]"
